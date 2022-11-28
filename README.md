@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Pandey</h1>
 <h3 align="center">A passionate frontend developer from India,Motivated and innovative aspiring full-stack web developer with hands-on experience in building websites with MERN stack and various web technologies including HTML, CSS, and JS.</h3>
 
-- 🌱 I’m currently learning **React Na
-- tive**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **REACT**
 
