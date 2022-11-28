@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sachin Pandey</h1>
 <h3 align="center">A passionate frontend developer from India,Motivated and innovative aspiring full-stack web developer with hands-on experience in building websites with MERN stack and various web technologies including HTML, CSS, and JS.</h3>
 
+
+
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **REACT**
 
+- 💬about my portfolio which i have created from scratch https://nimble-speculoos-aaa305.netlify.app/
+
 - 📫 How to reach me **sachinpandey582@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
