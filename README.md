@@ -1,15 +1,15 @@
-<img width="100%" height="300px" src="[https://giffiles.alphacoders.com/360/36005.gif](https://38.media.tumblr.com/440a34dda29466e0d2896ba982b8e8b6/tumblr_ngy9vsbJna1qav3uso1_500.gif)" alt="image" />
+<img src="https://camo.githubusercontent.com/efe028a1acecb148345817f09b7aa02ccb73f1335baf7ece530f6be85d4bfa1e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32662f66342f32382f32666634323830303666336164653566313062656163363933373230363261622e676966" alt="javascript" width="100%" height="350"/>
 
 <h1 align="center">Hi 👋, I'm Sachin Pandey</h1>
 <h3 align="center">A passionate frontend developer from India,Motivated and innovative aspiring full-stack web developer with hands-on experience in building websites with MERN stack and various web technologies including HTML, CSS, and JS. Curious to learn about emerging web technologies. Looking forward to making a significant contribution to an organization through dedicated effort.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinpandey582&label=Profile%20views&color=0e75b6&style=flat" alt="sachinpandey582" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sachinpandey582&label=Profile%20views&color=0e75b6&style=flat" alt="sachinpandey582" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinpandey582" alt="sachinpandey582" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinpandey582" alt="sachinpandey582" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<div display="flex">
+<div display="flex" align="center">
 <img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
 
