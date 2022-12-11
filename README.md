@@ -1,3 +1,5 @@
+<img width="100%" height="300px" src="[https://giffiles.alphacoders.com/360/36005.gif](https://38.media.tumblr.com/440a34dda29466e0d2896ba982b8e8b6/tumblr_ngy9vsbJna1qav3uso1_500.gif)" alt="image" />
+
 <h1 align="center">Hi 👋, I'm Sachin Pandey</h1>
 <h3 align="center">A passionate frontend developer from India,Motivated and innovative aspiring full-stack web developer with hands-on experience in building websites with MERN stack and various web technologies including HTML, CSS, and JS. Curious to learn about emerging web technologies. Looking forward to making a significant contribution to an organization through dedicated effort.</h3>
 
