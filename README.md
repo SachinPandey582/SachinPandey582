@@ -22,8 +22,6 @@
 
 - 💬 Ask me about **Coding**
 
-- 💬About my portfolio which i have created from scratch https://sachinpandey582.github.io/
-
 - 📫 How to reach me **sachinpandey582@gmail.com**
 
 - 📄 Know about my experiences  [ My Resume ](https://drive.google.com/file/d/1YfWUwqKsEIGL-rFuGN6AEri6c3m-rhd8/view?usp=sharing)
