@@ -10,7 +10,7 @@
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <div display="flex" align="center">
-<img src="https://postimg.cc/7bGN5hzM" alt="nothing" />
+
 
 
 <!-- <img alt="codee" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height=250 width=350 /> -->
