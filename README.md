@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **React Navtive**
 
-- 👨‍💻 All of my projects are available at [https://sachinpandey582.github.io/](https://sachinpandey582.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sachinpandey582.github.io/)
 
 - 💬 Ask me about **Coding**
 
@@ -26,8 +26,7 @@
 
 - 📫 How to reach me **sachinpandey582@gmail.com**
 
-- 📄 Know about my experiences
--  [resume](https://drive.google.com/file/d/1YfWUwqKsEIGL-rFuGN6AEri6c3m-rhd8/view?usp=sharing)
+- 📄 Know about my experiences  [ My Resume ](https://drive.google.com/file/d/1YfWUwqKsEIGL-rFuGN6AEri6c3m-rhd8/view?usp=sharing)
 
 - ⚡ Fun fact **Computer "Bugs" was inspired by a real Insect**
 
