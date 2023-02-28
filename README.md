@@ -26,7 +26,8 @@
 
 - 📫 How to reach me **sachinpandey582@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YfWUwqKsEIGL-rFuGN6AEri6c3m-rhd8/view?usp=sharing](https://drive.google.com/file/d/1YfWUwqKsEIGL-rFuGN6AEri6c3m-rhd8/view?usp=sharing)
+- 📄 Know about my experiences
+-  [resume](https://drive.google.com/file/d/1YfWUwqKsEIGL-rFuGN6AEri6c3m-rhd8/view?usp=sharing)
 
 - ⚡ Fun fact **Computer "Bugs" was inspired by a real Insect**
 
